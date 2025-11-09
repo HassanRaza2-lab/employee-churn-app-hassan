@@ -1,0 +1,5 @@
+[server]
+# Force Streamlit Cloud to use a stable Python version
+# Python 3.11 is highly compatible with scikit-learn 1.6.1
+# This ensures a stable installation environment.
+pythonVersion = 3.11
